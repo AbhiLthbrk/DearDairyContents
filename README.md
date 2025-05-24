@@ -1,2 +1,2 @@
 # DearDairyContents
-Contensts for tjhe web app
+JSON Contensts for the web app
